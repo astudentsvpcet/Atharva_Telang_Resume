@@ -2,7 +2,7 @@
 Welcome To My Git Hub Profile
 Atharva P. Telang
 
-Cloud & DevOps Engineer
+Engineering Graduate 
 
 About Me :-
 B.Tech Industrial IoT (2022–2026)
