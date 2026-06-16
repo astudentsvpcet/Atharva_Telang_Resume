@@ -15,33 +15,39 @@ Passionate about Automation and CI/CD
 Technical Skills 
 
 Cloud :-
-AWS EC2
-AWS S3
-AWS IAM
-AWS VPC
-AWS CloudWatch
+1. AWS EC2
+2. AWS S3
+3. AWS IAM
+4. AWS VPC
+5. AWS CloudWatch
 
 DevOps :-
-Git
-GitHub
-Jenkins
-Maven
-Docker
-Kubernetes
-CI/CD Pipelines
+1. Git
+2. GitHub
+3. Jenkins
+4. Maven
+5. Docker
+6. Kubernetes
+7. CI/CD Pipelines
 
 Operating Systems :-
-Linux (RHEL, Ubuntu)
+1. Linux (RHEL, Ubuntu)
 
 Scripting :-
-Linux Shell Scripting
+1. Linux Shell Scripting
 
 Internship :-
 Cloud Developer Intern | Clustor Computing, Nagpur
-Learned professional work ethics | Improved client communication skills | Participated in presentations | Enhanced teamwork 
+1. Learned professional work ethics 
+2. Improved client communication skills 
+3. Participated in presentations 
+4. Enhanced teamwork 
 
 Certifications :-
-DevOps & AWS Engineer Program | Certified C Language Programmer | Arduino Workshop | Machine Learning & IoT Workshop
+1. DevOps & AWS Engineer Program 
+2. Certified C Language Programmer 
+3. Arduino Workshop 
+4. Machine Learning & IoT Workshop
 
 Project :-
 Design and Development of Livestock Monitoring System :-
