@@ -38,22 +38,16 @@ Linux Shell Scripting
 
 Internship :-
 Cloud Developer Intern | Clustor Computing, Nagpur
-Learned professional work ethics
-Improved client communication skills
-Participated in presentations
-Enhanced teamwork and problem-solving abilities
+Learned professional work ethics | Improved client communication skills | Participated in presentations | Enhanced teamwork 
 
 Certifications :-
-DevOps & AWS Engineer Program 
-Certified C Language Programmer
-Arduino Workshop
-Machine Learning & IoT Workshop
+DevOps & AWS Engineer Program | Certified C Language Programmer | Arduino Workshop | Machine Learning & IoT Workshop
 
 Project :-
-Design and Development of Livestock Monitoring System
-Developed an IoT-based livestock monitoring solution
-Collected and monitored livestock data
-Applied Industrial IoT concepts
+Design and Development of Livestock Monitoring System :-
+1. Developed an IoT-based livestock monitoring solution
+2. Collected and monitored livestock data
+3. Applied Industrial IoT concepts
 
 Connect With Me :-
 LinkedIn: linkedin.com/in/atharva-telang-672160213
