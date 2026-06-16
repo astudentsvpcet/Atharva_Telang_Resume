@@ -13,6 +13,7 @@ Skilled in AWS, Linux, Git, GitHub, Jenkins, Maven, Docker, Kubernetes
 Passionate about Automation and CI/CD
 
 Technical Skills 
+
 Cloud :-
 AWS EC2
 AWS S3
